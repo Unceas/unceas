@@ -98,15 +98,15 @@ I build efficient algorithms and automation systems using **Python and C++**, fo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unceas&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=unceas&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=unceas&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=unceas&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unceas&theme=dark&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=unceas&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -120,5 +120,5 @@ I build efficient algorithms and automation systems using **Python and C++**, fo
 
 ## 👁️ Profile Views
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=unceas&icon=0&color=0"/>
+  <img src="https://komarev.com/ghpvc/?username=unceas&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
