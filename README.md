@@ -59,7 +59,7 @@ I build efficient algorithms and automation systems using **Python and C++**, fo
 📌 No high-level libraries used  
 📌 Deep understanding of ML fundamentals  
 
-👉 *([Add your repo link here](https://github.com/Unceas/learning-ai-from-scratch))*
+👉 *(https://github.com/Unceas/learning-ai-from-scratch)*
 
 ---
 
