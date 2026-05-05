@@ -1,4 +1,4 @@
-# 🚀 Ayush Kushwaha
+# Ayush Kushwaha
 
 <p align="center">
   <a href="https://instagram.com/_ayukushwaha">
