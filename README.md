@@ -1,116 +1,105 @@
-# Ayush Kushwaha
+<p align="center">
+  <h1> Ayush Kushwaha</h1>
+</p>
 
 <p align="center">
-  <a href="https://instagram.com/_ayukushwaha">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/aʏᴜsʜ-kᴜsʜᴡᴀʜᴀ-526890288">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kayush2005k@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://pinterest.com/just_A_K">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"/>
-  </a>
+  <a href="https://t.me/Just_AK">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 💫 About Me
-B.Tech student experienced in machine learning, data analysis, and software development, focused on building practical systems and solving real-world problems through AI, automation, and optimized algorithms.
+## ❐ About
 
-- ⚙️ Building scalable and efficient solutions  
-- 🧠 Exploring AI, algorithms, and intelligent systems  
-- 🔁 Automating repetitive workflows and processes  
-- 🚀 Turning concepts into working applications  
+B.Tech student focused on AI, data analysis, algorithms, and backend development.  
+Interested in building practical systems, understanding model internals, and solving implementation-heavy problems through projects.
 
 ---
 
-## ⚡ What I Do
-- 🧠 Algorithmic problem-solving and optimization  
-- 🤖 AI/ML project development and experimentation  
-- ⚙️ Automation tools and backend logic  
-- 📊 Data analysis and visualization workflows  
-- 🏗️ Full project implementation from idea to deployment  
+## ❐ Projects
+
+### Hybrid Sorting Benchmark and Visualization Toolkit ▸
+- Implemented and compared multiple hybrid sorting algorithms in C++
+- Benchmarked execution time and memory usage across varying dataset sizes
+- Built visualization modules for comparative performance analysis
+
+Repository:  
+[Hybrid Sorting Benchmark and Visualization Toolkit](https://github.com/Unceas/Hybrid-Sorting-Benchmark-and-Visualization-Toolkit?utm_source=chatgpt.com)
 
 ---
 
-## 🏆 Highlight Projects
+### AI Powered Data Analytics Prediction System ▸
+- Built a data analytics platform for preprocessing, visualization, and predictive analysis
+- Integrated machine learning models with backend APIs and dashboard components
+- Added automated insight generation and reporting workflows for uploaded datasets
 
-### 🔹 Hybrid Sorting Benchmark & Visualization Toolkit
-📌 Hybrid sorting implementations using C++  
-📌 Time and space complexity benchmarking  
-📌 Performance visualization with comparative analysis  
-
-👉 *(https://github.com/Unceas/Hybrid-Sorting-Benchmark-and-Visualization-Toolkit)*
-
----
-
-### 🔹 Waste Classifier CNN
-📌 CNN-based image classification system  
-📌 Trained and evaluated on waste classification datasets  
-📌 Focus on practical AI applications and model evaluation  
-
-👉 *(https://github.com/Aayush-Agarwal007/Waste-Classifier-CNN)*
+Repository:  
+[AI Powered Data Analytics Prediction System](https://github.com/Unceas/AI-Powered-Data-Analytics-Prediction-System?utm_source=chatgpt.com)
 
 ---
 
-### 🔹 Student Performance Predictor
-📌 Logistic Regression built from scratch  
-📌 Feature engineering, evaluation metrics, and visualization  
-📌 Streamlit + React/Node integration for UI experimentation  
+### Learning AI From Scratch ▸
+- Implemented core machine learning concepts without relying heavily on high-level ML frameworks
+- Worked on regression models, gradient descent, evaluation metrics, and training pipelines
+- Focused on understanding algorithm behavior and mathematical implementation details
 
-👉 *(Add Repo Link)*
-
----
-
-### 🔹 AI From Scratch
-📌 Implemented ML concepts without high-level ML libraries  
-📌 Gradient Descent, Regression, Metrics, and core fundamentals  
-📌 Focused on understanding internal working of algorithms  
-
-👉 *(https://github.com/Unceas/learning-ai-from-scratch)*
+Repository:  
+[Learning AI From Scratch](https://github.com/Unceas/learning-ai-from-scratch?utm_source=chatgpt.com)
 
 ---
 
-## 📈 Execution Mindset
-- 🚀 Consistently building and improving  
-- 🎯 Strong focus on practical implementation  
-- ⚡ Learning through real projects and experimentation  
-- 🛠️ Depth-first approach toward technical skills  
+### Waste Classifier CNN ▸
+- Co-developed a CNN-based image classification project for waste categorization
+- Trained and evaluated convolutional neural network models on image datasets
+- Worked on preprocessing, experimentation, and prediction workflows
+
+Repository:  
+[Waste Classifier CNN](https://github.com/Aayush-Agarwal007/Waste-Classifier-CNN?utm_source=chatgpt.com)
 
 ---
 
-## 💻 Tech Stack
+## ❐ Technical Skills
 
-### 🧠 Languages
-<p>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+### ➤ Languages
+- C
+- C++
+- Python
+- SQL
 
-### 🤖 AI / Data
-<p>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
+### ➤ AI / Data
+- NumPy
+- Pandas
+- Matplotlib
+- OpenCV
+- Machine Learning Fundamentals
+- Data Analysis
+- Data Visualization
 
-### ☁️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
-</p>
+### ➤ Tools & Platforms
+- Git
+- GitHub
+- AWS
+- Cloudflare
 
 ---
 
-## 📊 GitHub Stats
+## Currently Exploring
+- Machine Learning Systems
+- Search and Optimization Algorithms
+- Backend API Development
+- Data Processing Pipelines
+- AI-assisted Analytics
+
+---
+
+## ❐ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=unceas&show_icons=true&theme=dark&hide_border=true" />
@@ -126,14 +115,11 @@ B.Tech student experienced in machine learning, data analysis, and software deve
 
 ---
 
-## 🧠 Core Principle
-> Build > Talk  
-> Systems > Shortcuts  
-> Consistency > Motivation  
 
----
-
-## 👁️ Profile Views
+  
+<p align = "center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,aws,react,nodejs,mysql" />
+</p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=unceas&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=unceas&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
