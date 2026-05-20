@@ -25,6 +25,17 @@ Interested in building practical systems, understanding model internals, and sol
 
 ## ❐ Projects
 
+### AI Agent Workflow Browser Automation System ▸
+- Built an autonomous browser automation system capable of executing multi-step workflows
+- Integrated browser control, task orchestration, and AI-assisted decision pipelines
+- Developed backend workflow handling, state management, and automation logic
+- Focused on scalable agent execution, task planning, and real-time interaction workflows
+
+Repository:  
+[AI Agent Workflow Browser Automation System](https://github.com/Unceas/AI-Agent-Workflow-Browser-Automation-System)
+
+---
+
 ### Hybrid Sorting Benchmark and Visualization Toolkit ▸
 - Implemented and compared multiple hybrid sorting algorithms in C++
 - Benchmarked execution time and memory usage across varying dataset sizes
@@ -55,15 +66,6 @@ Repository:
 
 ---
 
-### Waste Classifier CNN ▸
-- Co-developed a CNN-based image classification project for waste categorization
-- Trained and evaluated convolutional neural network models on image datasets
-- Worked on preprocessing, experimentation, and prediction workflows
-
-Repository:  
-[Waste Classifier CNN](https://github.com/Aayush-Agarwal007/Waste-Classifier-CNN?utm_source=chatgpt.com)
-
----
 
 ## ❐ Technical Skills
 
@@ -90,13 +92,13 @@ Repository:
 
 ---
 
-## Currently Exploring
-- Machine Learning Systems
-- Search and Optimization Algorithms
-- Backend API Development
-- Data Processing Pipelines
-- AI-assisted Analytics
-
+- FastAPI
+- Playwright
+- SQLite
+- React
+- TypeScript
+- Tailwind CSS
+- Docker
 ---
 
 ## ❐ GitHub Stats
