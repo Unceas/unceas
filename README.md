@@ -62,7 +62,7 @@ Repository:
 - Focused on understanding algorithm behavior and mathematical implementation details
 
 Repository:  
-[Learning AI From Scratch](https://github.com/Unceas/learning-ai-from-scratch?utm_source=chatgpt.com)
+[Learning AI From Scratch](https://github.com/Unceas/learning-ai-from-scratch)
 
 ---
 
